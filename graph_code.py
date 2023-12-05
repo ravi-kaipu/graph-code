@@ -157,7 +157,7 @@ class FlowDiagram:
 	def show(self):
 		if not self.entities:
 			return;
-
+		print("\n")
 		self.arrange_entities()
 		self.arrange_functions()
 
