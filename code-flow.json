@@ -1,0 +1,10 @@
+{
+	"flow": [{
+		"func": {
+			"from_component": "xxx",
+			"to_component": "yyy",
+			"note" : "blah blah",
+			"result": ""
+		}
+	}]
+}
